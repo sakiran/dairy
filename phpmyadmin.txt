@@ -1,0 +1,4 @@
+Please make note of these MySQL credentials again:
+  Root User: adminsKPNUtX
+  Root Password: 8iwBb5nwdPSZ
+URL: https://dairy-sslcheck.rhcloud.com/phpmyadmin/
